@@ -1,0 +1,6 @@
+Hướng dẫn cài đặt 
+	Cài đặt netbean  hoặc eclipse
+	https://netbeans.org/
+	Sao đó mở file  java hotrohoctienganh 
+	vào phần library add hết file jar ở thư mục jar trong hotrohoctienganh
+	mở hàm main và run để chạy chương trình
